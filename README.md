@@ -134,7 +134,7 @@ This project was developed collaboratively by a team of three members as part of
 
 | Team Member | Contributions |
 |---|---|
-| **Ansh443-21** | Developed the machine learning model, implemented real-time ASL letter prediction, and integrated webcam-based recognition. |
+| **Ansh Vaghela** | Developed the machine learning model, implemented real-time ASL letter prediction, and integrated webcam-based recognition. |
 | **Rishika Giri** | Worked on understanding and preparing the dataset, researching hand landmark detection, and exploring how hand features are used for letter recognition. |
 | **Dhruv Luhar** | Assisted with testing the recognition system, reviewing prediction results, analyzing model performance, and preparing project documentation. |
 
