@@ -1,0 +1,27 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Dataset and generated data
+dataset/
+landmark_data.csv
+
+# Local environment files
+.env
+
+# Large models
+models/*.pth
+models/*.onnx
+models/*.onnx.data
+models/*.joblib
+
+# Editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db
